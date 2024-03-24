@@ -46,7 +46,7 @@
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hemstonec&theme=dark&hide_border=true" />
 </p>
 
-### Most Used Language
+### 
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemstonec&layout=compact)
 ### 🏆 GitHub Trophies
