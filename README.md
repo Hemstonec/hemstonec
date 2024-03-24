@@ -1,4 +1,5 @@
-#### Hey there! 👋 I'm a committed electronic and computer engineer with versatile skills, adept leadership, and strong interpersonal abilities. I excel in exceeding expectations through innovative solutions. My tech-savvy and risk-management skills ensure cutting-edge strategies. Adaptable and a quick learner, I thrive in fast-paced environments and contribute to electronic and computer engineering goals, propelling business success through dedication and technical prowess.
+#### Hey there! 👋 I'm a committed electronic and computer engineer with versatile skills, adept leadership, and strong interpersonal abilities. I excel in exceeding expectations through innovative solutions. My tech-savvy and risk-management skills ensure cutting-edge strategies. Adaptable and a quick learner, I thrive in fast-paced environments and contribute to electronic and computer engineering goals, propelling business success through dedication and technical prowess. 🚀💡🔧🎯📈
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hemstonec&label=Profile%20views&color=0e75b6&style=flat" alt="hemstone" /> </p>
 
@@ -37,17 +38,17 @@
  </a>
 </p>
 
-### Most Used Language
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemstonec&layout=compact)
-
-### 📊 GitHub Stats & Streaks
+### 📊 My stats
 
 <p align="left">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hemstonec&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hemstonec&theme=dark&hide_border=true" />
 </p>
 
+### Most Used Language
+
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemstonec&layout=compact)
 ### 🏆 GitHub Trophies
 
 <p align="left">
@@ -59,9 +60,9 @@
 ### 📫 Get in Touch
 
 <p align="left">
- <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/twitter/follow/your-twitter-handle?style=social&logo=twitter" alt="Twitter"></a>
+ <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
  &nbsp;&nbsp;&nbsp;
- <a href="https://stackoverflow.com/users/your-stack-overflow-id"><img src="https://img.shields.io/stackexchange/stackoverflow/r/your-stack-overflow-id?style=plastic&logo=stackoverflow" alt="Stack Overflow"></a>
+ <a href="https://stackoverflow.com/users/your-stack-overflow-id"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
  &nbsp;&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/hemstone-chilluba-410b05218"><img src="https://img.shields.io/badge/-Hemstone%20Chilluba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemstone-chilluba-410b05218/" alt="LinkedIn"></a>
+ <a href="https://www.linkedin.com/in/hemstone-chilluba-410b05218"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
