@@ -1,6 +1,4 @@
 Hey there! 👋 I'm a committed electronic and computer engineer with versatile skills, adept leadership, and strong interpersonal abilities. I thrive in fast-paced environments and contribute to electronic and computer engineering goals, propelling business success through dedication and technical prowess. 🛠️💡🚀😎. The technologies i enjoy working with include Python, Javascript, React, Ruby, Nextjs, Ruby on Rails and Rspec. I'm also a linux enthusiast 😆. I'm open for any opportunities.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kimutai01 &label=Profile%20views&color=0e75b6&style=flat" alt="kimutai" /> </p>
-
 
 <a href="https://twitter.com/Kimutai_01?t=liw9aVN4UD5KG2V7RpThMw&s=09">
   <img align="left" alt="Kimutai's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
