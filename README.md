@@ -51,21 +51,15 @@
 ### 🏆 GitHub Trophies
 
 <p align="left">
- <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-   <img src="https://github-profile-trophy.vercel.app/?username=Hemstonec&theme=onedark&column=4&margin-w=15&margin-h=15"/>
- </a>
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+<img src="https://github-profile-trophy.vercel.app/?username=Hemstonec&theme=onedark&column=4&margin-w=15&margin-h=15"/>
+</a>
 </p>
+
 ### 📫 Get in Touch
 
 <p align="left">
 <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-
-   
-
 <a href="https://stackoverflow.com/users/your-stack-overflow-id"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-
-   
-
 <a href="https://www.linkedin.com/in/hemstone-chilluba-410b05218"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
 </p>
