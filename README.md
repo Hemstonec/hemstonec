@@ -52,7 +52,29 @@ Hey there! 👋 I'm a committed electronic and computer engineer with versatile 
 
   <tr>
     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimutai01&langs_count=10&layout=compact"/></td>
+
   </tr>
+  <!-- Social -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://brunnerliv.io">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Globe" height="80" src="images/globe.gif">
+</a>
+</p>
+
+</td>
+
+
+<td align="center">
+<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
 </table>
 
 ### 🏆 GitHub Trophies
