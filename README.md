@@ -1,3 +1,16 @@
+<!-- "Hero" Header -->
+
+
+</div>
+
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+
+</div>
+
+
 Hey there! 👋 I'm a committed electronic and computer engineer with versatile skills, adept leadership, and strong interpersonal abilities. I thrive in fast-paced environments and contribute to electronic and computer engineering goals, propelling business success through dedication and technical prowess. 🛠️💡🚀😎. The technologies i enjoy working with include Python, Javascript, React, Ruby, Nextjs, Ruby on Rails and Rspec. I'm also a linux enthusiast 😆. I'm open for any opportunities.
 
 <a href="https://twitter.com/Kimutai_01?t=liw9aVN4UD5KG2V7RpThMw&s=09">
