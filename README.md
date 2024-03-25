@@ -1,4 +1,4 @@
-#### Hey there! 👋 I'm a committed electronic and computer engineer with versatile skills, adept leadership, and strong interpersonal abilities. I excel in exceeding expectations through innovative solutions. My tech-savvy and risk-management skills ensure cutting-edge strategies. Adaptable and a quick learner, I thrive in fast-paced environments and contribute to electronic and computer engineering goals, propelling business success through dedication and technical prowess.
+#### Hey there! 👋 I'm a committed electronic and computer engineer with versatile skills, adept leadership, and strong interpersonal abilities. I excel in exceeding expectations through innovative solutions. My tech-savvy and risk-management skills ensure cutting-edge strategies. Adaptable and a quick learner, I thrive in fast-paced environments and contribute to electronic and computer engineering goals, propelling business success through dedication and technical prowess. 🛠️💡🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hemstonec&label=Profile%20views&color=0e75b6&style=flat" alt="hemstone" /> </p>
 
