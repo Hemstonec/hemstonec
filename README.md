@@ -1,65 +1,54 @@
-#### Hey there! 👋 I'm a committed electronic and computer engineer with versatile skills, adept leadership, and strong interpersonal abilities. I excel in exceeding expectations through innovative solutions. My tech-savvy and risk-management skills ensure cutting-edge strategies. Adaptable and a quick learner, I thrive in fast-paced environments and contribute to electronic and computer engineering goals, propelling business success through dedication and technical prowess. 🛠️💡🚀
+Hey there! 👋 I'm a committed electronic and computer engineer with versatile skills, adept leadership, and strong interpersonal abilities. I thrive in fast-paced environments and contribute to electronic and computer engineering goals, propelling business success through dedication and technical prowess. 🛠️💡🚀😎. The technologies i enjoy working with include Python, Javascript, React, Ruby, Nextjs, Ruby on Rails and Rspec. I'm also a linux enthusiast 😆. I'm open for any opportunities.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kimutai01 &label=Profile%20views&color=0e75b6&style=flat" alt="kimutai" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hemstonec&label=Profile%20views&color=0e75b6&style=flat" alt="hemstone" /> </p>
 
-### 🚀 Top Languages and Tools:
-
-<p align="left">
- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
- </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
- </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
- </a>
- <a href="https://reactjs.org/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
- </a>
- <a href="https://nodejs.org/en/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
- </a>
- <a href="https://www.python.org" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
- </a>
- <a href="https://www.ruby-lang.org/en/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
- </a>
- <a href="https://www.typescriptlang.org/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
- </a>
- <a href="https://www.gnu.org/software/bash/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
- </a>
- <a href="https://www.postgresql.org" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
- </a>
-</p>
-
-### 🏆 Most Used Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemstonec&layout=compact&langs_count=8)
-
-### 📊 My Stats
-
-<p align="left">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hemstonec&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hemstonec&theme=dark&hide_border=true" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-<img src="https://github-profile-trophy.vercel.app/?username=Hemstonec&theme=onedark&column=4&margin-w=15&margin-h=15"/>
+<a href="https://twitter.com/Kimutai_01?t=liw9aVN4UD5KG2V7RpThMw&s=09">
+  <img align="left" alt="Kimutai's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-</p>
+<a href="https://www.linkedin.com/in/kimutai-kiprotich-1b5045216">
+  <img align="left" alt="Kimutai's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Kimutai01">
+  <img align="left" alt="Kimutai's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-### 📫 Get in Touch
+<br/>
+<br/>
 
-<p align="left">
-<a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://stackoverflow.com/users/your-stack-overflow-id"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-<a href="https://www.linkedin.com/in/hemstone-chilluba-410b05218"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+**Languages and Tools:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/62b74b4ac11782e90fa7c275d62ad1a2855d403d/topics/google-cloud/google-cloud.png"></code>
+<code><img height="30" src="https://camo.githubusercontent.com/9524913c8527def8ce119eab41a08b29a4e6b6ed71abdd5ab351222458d757d1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34622f426173685f4c6f676f5f436f6c6f7265642e7376672f3132303070782d426173685f4c6f676f5f436f6c6f7265642e7376672e706e67"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+
+### :octocat: My stats
+  <table>
+
+  <tr>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Kimutai01&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
+    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Kimutai01&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
+  
+  </tr>   
+</table>
+
+<table>
+
+
+  <tr>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimutai01&langs_count=10&layout=compact"/></td>
+  </tr>
+</table>
+
+### Get in touch
+<p>
+  <a href="https://twitter.com/Kimutai_01?t=liw9aVN4UD5KG2V7RpThMw&s=09"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/kimutai-kiprotich-1b5045216"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
+  <a href="https://github.com/Kimutai01"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
+  <a href="https://stackoverflow.com/users/16348210/kiprotich-kimutai"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
 </p>
